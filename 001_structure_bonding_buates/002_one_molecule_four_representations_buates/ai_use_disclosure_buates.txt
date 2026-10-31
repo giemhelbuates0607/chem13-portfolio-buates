@@ -1,0 +1,33 @@
+AI USE DISCLOSURE
+Course: CHEM 13 (Lecture)
+Assignment: Asynchronous Activity No. 2: One Molecule, Four Representations: From Molecular Formula to Bond-Line Structure
+Student Name: Giemhel A. Buates
+
+1. AI TOOLS USED
+
+- ChatGPT (OpenAI)
+- Claude (Anthropic)
+
+2. SPECIFIC APPLICATIONS AND WORKFLOW
+
+I used ChatGPT and Claude as supplementary learning tools while completing this activity. They helped me understand the instructions, clarify unfamiliar concepts, and become more familiar with the required processes. Specifically, I used them for the following purposes:
+
+Tutorial Assistance
+
+I used both AI tools to clarify the instructions and tutorials for Ketcher, particularly when I encountered unfamiliar tools or had difficulty understanding certain steps. I also asked for step-by-step explanations to help me follow the drawing process and understand how to use the software properly.
+
+Presentation Design and Layout
+
+I used ChatGPT to generate some visual design elements, such as colored boxes and other layout components, which I incorporated into my PowerPoint presentation. These helped improve the organization and overall appearance of my molecule cards.
+
+Checking and Verification of Chemical Structures
+
+I used AI tools as additional references when checking some of the chemical structures and molecular formulas. I compared the information provided by AI with credible online sources and other chemistry references to identify possible errors or inconsistencies. Any suggestions were reviewed before making changes to my work.
+
+3. INDEPENDENT VERIFICATION AND ETHICAL COMPLIANCE
+
+Despite using AI tools for guidance and assistance, I independently completed all four required representations for the ten assigned molecules. I used MolView to digitally construct the Lewis structures, including the appropriate atoms, bonds, and lone pairs, while Ketcher was used to create all the required bond-line structures, as specified in the activity instructions. I also prepared the molecular formulas and condensed structural formulas for each compound.
+
+After completing the structures, I manually reviewed and checked their atom counts, bonding, valence, and connectivity to ensure that all four representations described the same compound. I also consulted credible references and relied on my understanding of the concepts discussed in class to verify their accuracy.
+
+AI tools served only as supplementary resources throughout the process and were not used as a substitute for my own work. I take full responsibility for the accuracy, completeness, and final content of the portfolio submitted in my GitHub repository.
