@@ -1,0 +1,23 @@
+AI USE DISCLOSURE
+
+Course:CHEM 13 (Lecture)  
+Assignment: Asynchronous Activity No. 3: Name It, Draw It: Two-Way IUPAC Nomenclature of Alkanes, Cycloalkanes and Haloalkanes
+Student Name: GIEMHEL A. BUATES
+
+1. AI TOOL USED
+
+Tool Names: ChatGPT (OpenAI) and Claude
+
+2. SPECIFIC APPLICATIONS
+
+- I used Claude to help create the layout and design of my PowerPoint presentation based on my preferred style before adding the required information for the activity.
+- I used both Claude and ChatGPT to guide me through the step-by-step instructions for using the Alkane website, especially when I was confused about some of the processes.
+- I used Claude to help check and verify the highlighted parent chains in my structures.
+- I used both AI tools to review and compare the information I entered with other references and my own understanding.
+- I also used them to clarify confusing concepts and explain parts that did not seem to match, so I could better understand and correct my work.
+
+3. INDEPENDENT VERIFICATION & ETHICAL COMPLIANCE
+
+Although I used AI tools for guidance and clarification, I made sure to review and understand the work before including it in my final output. I personally worked on the IUPAC naming and structural identification activities, using my own understanding of the lessons. The AI tools served only as additional references to help me check my answers and clear up any confusion.
+
+I also manually reviewed and checked all 20 digital naming cards to make sure the information was correct. I used the Alkane web application as an additional tool to compare and validate my answers. I understand that AI tools and online applications may sometimes provide incorrect information, so I did not rely on them completely. I take full responsibility for the accuracy and final content of the work I submitted.
